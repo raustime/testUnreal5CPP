@@ -1,0 +1,154 @@
+[
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\Bullet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\Bullet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\CustomActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\CustomActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\Interfaces\\DeathInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\Interfaces\\DeathInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPP.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPP.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPP.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPPCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPPCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPPGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPPGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPPGameStateBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\ReubsTut1CPPGameStateBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\SpherePawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\SpherePawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\Target.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\ReubsTut1CPP\\Source\\ReubsTut1CPP\\Target.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\ReubsTut1CPP\\.vscode\\compileCommands_Default\\ReubsTut1CPP.255.rsp"
+		],
+		"directory": "D:\\UE\\UE_5.1\\Engine\\Source"
+	}
+]
